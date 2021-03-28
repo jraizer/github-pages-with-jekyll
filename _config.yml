@@ -1,4 +1,3 @@
-theme: minima
 title: jraizer Blog
 author: Josué Raizer
 email: jraizer@gmail.com
@@ -10,3 +9,4 @@ cv-lattes_username: http://lattes.cnpq.br/4976414949967775 # DO NOT include the 
 github_username:  https://github.com/jraizer 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
