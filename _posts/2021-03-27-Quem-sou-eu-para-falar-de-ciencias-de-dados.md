@@ -1,5 +1,5 @@
 ---
-title: "Quem sou eu para falar de ciência de dados?"
+title: "Quem-sou-eu-para-falar-de-ciencias-de-dados"
 date: 2021-03-27
 ---
 
